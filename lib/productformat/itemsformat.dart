@@ -28,7 +28,7 @@ List<ProductFormat> productDetails = [
   ),
   ProductFormat(
     name: 'Red Velvet Cream',
-    item_image: 'assets/freecream2.jpg',
+    item_image: 'assets/vanilla1.png',
     price: 16,
     container_color: const Color(0xffF9B296),
     icon_color: Colors.yellow,
@@ -37,7 +37,7 @@ List<ProductFormat> productDetails = [
   ),
   ProductFormat(
     name: 'Ice Cream ',
-    item_image: 'assets/realcream2.png',
+    item_image: 'assets/vanilla2.png',
     price: 76,
     container_color: const Color(0xC9B90C5D),
     icon_color: Colors.yellow,
@@ -46,7 +46,7 @@ List<ProductFormat> productDetails = [
   ),
   ProductFormat(
     name: 'Ice Cream berry',
-    item_image: 'assets/creamcone1.jpg',
+    item_image: 'assets/purpleicecream.png',
     price: 28,
     container_color: const Color(0x7C030201),
     icon_color: Colors.yellow,
